@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ My name is Brook<br>🔭 I’m currently working on a Flutter Application<br>👯 I’m looking to collaborate on anything open source<br>🌱 I’m currently learning Data Science <br>
+⚡ My name is Brook<br>🔭 I’m currently working on a React native Application<br>👯 I’m looking to collaborate on anything open source<br>🌱 I’m currently learning Data Science <br>
 
 
 ## 🌐 Socials:
